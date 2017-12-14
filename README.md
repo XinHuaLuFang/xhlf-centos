@@ -6,6 +6,11 @@
 
 ## mysql
 1. 检测是否已安装`mysql`
+  ```Bash
+  rpm -qa
+  ```
+
+1. aaa
 
 ## 命令
 - [GREP](http://man.linuxde.net/GREP) - __Global Regular Expression Print__ - global search regular expression and print out the line
